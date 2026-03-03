@@ -1,0 +1,5 @@
+# Ignore downloaded newsletter source files (not needed for the site)
+*.html_files/
+10 Hidden*
+Powerful Websites*
+powerful-websites-221-230.html
